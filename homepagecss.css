@@ -1,0 +1,62 @@
+body {
+	background: black;
+}
+
+
+
+#navigation {
+	background: black;
+	height: 130px;
+	width: 1535px;
+}
+
+.nav {
+	margin-top: 5px;
+	margin-right: 10px;
+	float: right;
+}
+
+.year {
+	padding-left: 10px;
+	float: center;
+}
+
+#content {
+	background: yellowgreen;
+	width: 1535px;
+	height: 500px;
+}
+
+#one {
+	padding-left: 10px;
+	float: left;
+	background: darkseagreen;
+	width: 260px;
+	height: 380px;
+}
+
+#two {
+	padding-left: 10px;
+	float: left;
+	background: indianred;
+	width: 260px;
+	height: 380px;
+}
+
+#three {
+	padding-left: 10px;
+	float: left;
+	background: violet;
+	width: 260px;
+	height: 380px;
+}
+
+#four {
+	padding-left: 10px;
+	float: left;
+	background: orange;
+	width: 260px;
+	height: 380px;
+}
+
+
