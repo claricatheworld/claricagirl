@@ -185,7 +185,7 @@ a.btn:hover {
   --button-bits-color-hover: var(--button-background-color);
   
   position: relative;
-  padding: 0px;
+  padding: 10px;
   margin-bottom: 0px;
   text-transform: uppercase;
   font-weight: bold;
